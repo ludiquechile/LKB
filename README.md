@@ -41,5 +41,5 @@ qt5-default
 qtcreator
 qttools5-dev-tools
 
-Some example use for LCD Multitouch - when touchscreens where not a thing yet :) 
+Some example use for LCD Multitouch - when touchscreens were not a thing yet :) 
 https://www.youtube.com/watch?v=hzEojZ4l1i0
